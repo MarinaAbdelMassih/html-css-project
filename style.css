@@ -1,0 +1,326 @@
+ *{
+    
+        margin: 0;
+        padding: 0;
+        font-family: 'Open Sans',arial;
+      
+}
+.startnav{overflow: auto;position: fixed;
+    top: 0;
+    width: 100%;
+    background: white;
+}
+.logoo{width:10%;float:left;}
+.links{width:50%;  text-align: center;
+    padding-top: 20px;
+    float: right;
+    font-size: 18px;}
+.links ul{list-style-type: none;text-align: center;}
+ul li{display: inline;    margin-right: 10px;}
+.links a {color:black;}
+ul li a {    padding: 10px 22px;
+    background: green;
+    font-size: 18px;}
+    .sidelogo{background: white;padding: 10px; position: fixed;
+        display: inline;  right: 0;top:200px; }
+    .sidelogo i{color: gray;}
+    .sidelogo:hover i{color:blue;}
+.start{
+    background-color: black;
+    background-image: url(images/business-2.jpg);
+    height: 990px;
+    color: white;
+    text-align: center;
+}
+
+
+.homelink{color: rgb(19, 211, 51); }
+ a{text-decoration: none;padding: 10px;color: white;}
+
+
+
+
+h1{
+    padding-top: 450px;
+}
+.pstart{
+    margin: 20px;
+    font-size: 50px;
+}
+button{
+    background: green;
+    padding: 20px 40px;
+    margin-bottom: 500px;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.icons
+{
+    overflow: auto;
+   
+    padding: 20px;
+    margin: auto;
+    
+}
+
+.icons .icon{
+
+width: 100%;
+float: left;
+margin: 10px;
+
+}
+.h2icon{
+    margin: 30px 0px;
+}
+
+.icon p{
+    margin: 30px;
+    padding: 20px;
+}
+
+.h2serve{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    padding-top: 90px;
+}
+.pserve{
+    color: grey;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+    padding: 30px;
+
+}
+.services{
+    overflow: auto;
+     background: #f1f1f1;
+     padding:50px;
+     margin-top: 30px;  
+
+}
+.serve p{padding: 10px;
+margin: 20px;
+font-size: 20px;}
+.services .serve{
+  
+   width: 90%;
+    float: left;
+    margin: 30px;
+    background: white;
+    overflow: hidden;
+   
+}
+.img_serve{
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.serve:hover img{    transform: scale(1.04);
+    transition: transform 1s;}
+
+.h3serve{margin: 10px 30px;}
+span{color: green;}
+
+.oursecret{ overflow: auto;
+    padding: 40px;
+    margin: 20px;
+
+}
+.secimg{width: 46%;float: right;}
+.oursecret .sec{float: left;
+width: 46%; padding-right: 20px;}
+.oursecret h2 ,p{
+   margin: 40px 10px 30px 10px;
+    padding-bottom:20px; 
+}
+.oursecret .sec button{margin-bottom: 100px;}
+
+
+
+
+.comment{background:#f1f1f1;overflow: auto;}
+.comment .far11 {
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+    color: green;
+    margin-top: 70px;}
+.comment .alt{float: left;width:90%;margin: 30px;}
+.comment .alt p{color:gray;background: white;padding: 30px;}
+.comment .alt h6{padding: 20px;color:gray;}
+.footcomm{text-align: center; color: gray;background: #f1f1f1;
+    padding: 30px;}
+
+
+
+
+.number{padding: 30px;margin: auto; overflow: auto;
+    text-align:center;}
+.number .num{float: left;width: 100%;}
+.number .num h5{font-size: 40px;}
+.number .num i{    margin-bottom: 30px;
+    color: gray;
+    font-size: 30px;}
+.number .num p{color: gray;}
+
+.additonalvalue{
+    background-image: url(images/download.jpg);
+      width: 100%;
+    margin:auto;
+    text-align: center;
+    
+}
+.h2addit{
+    padding: 200px 0px 0px;
+   margin: 30px;
+    color: white;
+    font-size: 30px;
+   
+
+}
+.paddit{
+
+    color: white;
+    font-size: 25px;
+    
+}
+.h2other{
+    text-align: center;margin-top: 50px; padding: 30px 0px 0px 0px;font-size: 30px;
+}
+.otherp{font-size: 20px;color: grey;text-align: center}
+.other table{padding: 10px;}
+.other h4{padding: 20px;}
+.other p{color:gray;font-size: 18px;
+}
+
+.logo{
+   
+    padding: 80px 0px;
+    background: rgb(243, 247, 247);
+   
+}
+.imglogo{width: 180px;padding: 10px 40px;}
+
+.green{background: forestgreen; margin: auto;
+ padding: 10px;color:white;overflow: auto;}
+ .green .green2{float: left;width: 50%;padding: 20px}
+ .green h2{    margin: 50px 50px 0px;
+    padding: 50px 50px 0px;font-size: 30px;}
+ .green p{font-size: 25px;}
+ .green button{background: floralwhite;color: black;margin:150px 100px 0px 190px }
+
+ .about{padding: 10px;overflow: auto;
+    background: rgb(43, 42, 42); }
+ .about .abo{float: left; width:100%;color: gray; margin: auto;}
+ .about .abo h6{   font-size: 18px;
+    color: white;
+    padding: 30px;}
+    .about .abo p{    padding: 10px 20px 0px;
+        margin: 10px;}
+.footer{background: black;color: gray;margin: auto;
+     padding: 40px;overflow: auto;}
+.social{float: right;}
+
+.scroll{position: fixed;
+    right:10px;
+    bottom: 10px;
+    font-size: 30px;
+
+}
+
+
+.medianum{margin: auto;
+    width: 25%;
+    float: left;}
+
+    
+@media(max-width:1200px) and (min-width:992px)
+{
+    .medianum{
+        width: 33.3333%;
+    }
+}
+
+@media(max-width:991px) and (min-width:768px)
+{
+    .medianum{
+        width: 50%;
+      
+    }
+}
+@media(max-width:767px)
+{
+    .medianum{
+       width:100%;
+      
+      
+    }
+}
+
+
+.mediaabout{margin: auto;
+    width: 25%;
+    float: left;}
+
+    
+@media(max-width:1200px) and (min-width:992px)
+{
+    .mediaabout{
+        width: 33.3333%;
+    }
+}
+
+@media(max-width:991px) and (min-width:768px)
+{
+    .mediaabout{
+        width: 50%;
+      
+    }
+}
+@media(max-width:767px)
+{
+    .mediaabout{
+       width:100%;
+      
+      
+    }
+}
+
+
+
+.mediaserve{
+   
+   
+    width: 33.3333%;
+   float: left;
+   margin: auto;
+  
+
+ }
+
+
+@media(max-width:1200px) and (min-width:992px)
+{
+    .mediaserve{
+        width: 33.3333%;
+      
+    }
+}
+
+@media(max-width:991px) and (min-width:768px)
+{
+    .mediaserve{
+        width: 50%;
+        margin: auto;
+    }
+}
+@media(max-width:767px)
+{
+    .mediaserve{
+       width:100%;
+       margin: auto;
+    }
+}
